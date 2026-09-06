@@ -213,3 +213,7 @@ undistortion tidak andal meningkatkan detektor modern. **Hasil negatif yang vali
 - MOWA: KangLiao929/MOWA, **S-Lab License 1.0 (non-komersial)**.
 - Standar berat: Cobb500 Broiler Performance Supplement 2022.
 - Dataset external: Roboflow Universe (lihat `data/external/*/README.roboflow.txt`).
+
+## 9. Catatan Pemeliharaan
+
+README ini diperbarui langsung melalui integrasi GitHub untuk menguji alur commit dan push.
